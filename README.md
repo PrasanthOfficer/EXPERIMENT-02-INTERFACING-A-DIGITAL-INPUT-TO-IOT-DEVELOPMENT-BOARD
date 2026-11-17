@@ -140,17 +140,20 @@ int main(void)
 
 ## OUTPUT
 
-![alt text](screenshots/image-4.png)
+<img width="1006" height="598" alt="image" src="https://github.com/user-attachments/assets/9e4c9516-8084-468c-8f4b-a5a0aa96dc68" />
 
-![alt text](screenshots/image-1.png)
+
+<img width="976" height="591" alt="image" src="https://github.com/user-attachments/assets/349aa9e1-e5f8-4441-a212-9e82716ff6dc" />
+
 
 ### OFF:
+<img width="925" height="435" alt="image" src="https://github.com/user-attachments/assets/c8b9d6ef-0dfc-4dbc-a847-f8c4ea399225" />
 
-![alt text](screenshots/image-2.jpg)
 
 ### ON:
 
-![alt text](screenshots/image-3.jpg)
+<img width="976" height="445" alt="image" src="https://github.com/user-attachments/assets/46ca98de-0df4-466e-9497-7328af219a8c" />
+
 
 ## Result
 
